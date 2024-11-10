@@ -1,6 +1,6 @@
 from huggingface_hub import login
 
-login("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")
+login("")
 
 model_checkpoint = "t5-small"
 
